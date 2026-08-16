@@ -1,6 +1,6 @@
 ## Daniel Fernandez
 
-I'm a rising senior at CUNY Queens College studying Computer Science, with experience at *Dow Jones*, working as a *Software Engineering Intern* for *Wall Street Journal Web Brand*. I love building full-stack web applications, developer tooling, and database-driven systems.
+I'm a rising senior at CUNY Queens College studying Computer Science, with previous experience at *Dow Jones*, working as a *Software Engineering Intern* for *Wall Street Journal Web Brand*. I love building full-stack web applications, developer tooling, and database-driven systems.
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dan--fernan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dan-fernan)
