@@ -3,12 +3,13 @@
 I'm a rising senior at CUNY Queens College studying Computer Science, with experience at *Dow Jones*, working as a *Software Engineering Intern* for *Wall Street Journal Web Brand*. I love building full-stack web applications, developer tooling, and database-driven systems.
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dan--fernan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dan-fernan)[cite: 1]
-[![Email](https://img.shields.io/badge/Email-danielfernandez.ny@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danielfernandez.ny@gmail.com)[cite: 1]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dan--fernan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dan-fernan)
+[![Email](https://img.shields.io/badge/Email-danielfernandez.ny@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danielfernandez.ny@gmail.com)
 
 ### 💻 Tech Stack & Tooling
 
 **Languages**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -18,6 +19,7 @@ I'm a rising senior at CUNY Queens College studying Computer Science, with exper
 ![HTML5/CSS3](https://img.shields.io/badge/HTML5%20/%20CSS3-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **Frameworks & Libraries**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
