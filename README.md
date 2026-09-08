@@ -5,7 +5,7 @@ I'm a rising senior at CUNY Queens College studying Computer Science, with previ
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dan--fernan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dan-fernan)
 [![Email](https://img.shields.io/badge/Email-danielfernandez.ny@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danielfernandez.ny@gmail.com)
-[Portfolio](https://fernandezlabs.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fernandezlabs.com-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://fernandezlabs.com)
 
 ### 💻 Tech Stack & Tooling
 
@@ -23,7 +23,7 @@ I'm a rising senior at CUNY Queens College studying Computer Science, with previ
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
